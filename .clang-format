@@ -9,7 +9,6 @@ AlignTrailingComments: 'false'
 AllowAllParametersOfDeclarationOnNextLine: 'false'
 AllowShortBlocksOnASingleLine: 'false'
 AllowShortCaseLabelsOnASingleLine: 'false'
-AllowShortIfStatementsOnASingleLine: 'false'
 AllowShortLoopsOnASingleLine: 'false'
 AlwaysBreakAfterDefinitionReturnType: None
 AlwaysBreakAfterReturnType: None
@@ -40,7 +39,6 @@ MaxEmptyLinesToKeep: '1'
 NamespaceIndentation: All
 PointerAlignment: Left
 ReflowComments: 'false'
-SortIncludes: 'false'
 SpaceAfterCStyleCast: 'true'
 SpaceAfterLogicalNot: 'true'
 SpaceBeforeAssignmentOperators: 'true'
